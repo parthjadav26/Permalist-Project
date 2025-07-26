@@ -3,8 +3,6 @@
 
 A clean and elegant task management web application to manage daily or permanent to-dos using **Node.js**, **Express**, **EJS**, and **PostgreSQL**.
 
-![Permalist UI](./assets/preview.png)
-
 ---
 
 ## 🚀 Features
